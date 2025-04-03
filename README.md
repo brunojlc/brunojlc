@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @brunojlc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there! I'm Bruno
+
+## ⚡ About Me
+
+I’m a **Senior Electrical Engineer** and currently working as **Maintenance Development Manager** at **CAERN**.
+
+- 🛠️ I have solid experience in **Maintenance** and **Asset Management**, leading multidisciplinary teams and developing maintenance strategies.
+- 📊 I’m passionate about **Data Analytics** and **Machine Learning** applied to **Maintenance** and **Asset Management**.
+- 🎓 I’m currently an **MSc Student in Power Energy**, specializing in **Power Quality**.
+- 🚀 My mission is to bridge the gap between **Engineering**, **Maintenance** and **Data** to improve decision-making process and operational efficiency.
+
+---
+
+## 🚀 Skills & Interests
+
+- Electrical Engineering ⚡
+- Maintenance & Asset Management 🔧
+- Power Quality ⚙️
+- Data Analytics & Machine Learning 📊
+- Python, ETL, BI, Machine Learning 
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:seuemail@gmail.com)
+
+---
 
 <!---
 brunojlc/brunojlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
